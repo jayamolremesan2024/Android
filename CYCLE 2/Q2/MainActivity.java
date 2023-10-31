@@ -1,4 +1,4 @@
-package com.example.sjcet.q2;
+Qpackage com.example.sjcet.q2;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
