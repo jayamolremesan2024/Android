@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string-array name="college">
+        <item>CET</item>
+        <item>SJCET</item>
+        <item>AJCET</item>
+    </string-array>
+</resources>
